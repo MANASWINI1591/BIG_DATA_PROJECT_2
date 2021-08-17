@@ -17,7 +17,7 @@
 
 ####        1.    Which are the most trending topics on twitter (with & without hashtag).
 
-####        2.    Which are all the trending tweets of any particular user(katyperry) on twitter by using  (with & without historical data).
+####        2.    Which are all the trending tweets of any particular user(katyperry) on twitter by using(with & without historical data).
 
 ####        3.    How many twitter accounts used the hashtag Tokyo2020 Olympic.
 
