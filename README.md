@@ -25,7 +25,7 @@
 
 ####        5.    Which account(User_id) has the most number of tweets count (post).
 
-#  RFERENCE
+#  REFERENCES
 
 * https://www.followersanalysis.com/
 * https://api.twitter.com/2/users/:id/likes
